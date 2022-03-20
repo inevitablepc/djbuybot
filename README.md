@@ -48,5 +48,5 @@ remove_gif - Remove gif for set min_buy amount
 /remove_gif <token_address> <min_amt>
 
 
-spin_a_nigelcast - Choose a random NigelCast to play for your guests.
+spin_a_nigelcast - Choose a random NigelCast to play for your guests.  
 /spin_a_nigelcast
