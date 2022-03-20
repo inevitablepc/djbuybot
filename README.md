@@ -9,55 +9,44 @@ It only works for PancakeSwap and BSC tokens for now. If you like to include mor
 
 **Commands** (Ignore <> chracters when typing out the commands)
 
-intro - Say hi to the Nigel's Dj Bot!
-
+intro - Say hi to the Nigel's Dj Bot!  
 /intro
 
 
-add_token - Add the token {token} you want to track.
+add_token - Add the token {token} you want to track.  
 /add_token <token_address>
 
 
-remove_token - Remove the token {token} you want to track
-
+remove_token - Remove the token {token} you want to track  
 /remove_token <token_address>
 
 
-set_min - Set minimum amount to track in BNB
-
+set_min - Set minimum amount to track in BNB  
 /set_min <token_address> <min_amt>
 
 
-set_step - Set emoji count per step. Default is 0.1
-
+set_step - Set emoji count per step. Default is 0.1  
 /set_step <token_address> <min_amt>
 
 
-set_emoji - Choose which emoji you like
-
+set_emoji - Choose which emoji you like  
 /set_emoji <token_address> <min_amt>
 
 
-set_gif - Set token, min_buy and reply to a gif. You can possibly have multiple gifs and it will select the one cloest to the amount.
-
+set_gif - Set token, min_buy and reply to a gif. You can possibly have multiple gifs and it will select the one cloest to the amount.  
 /set_gif <token_address> <0.5>
 
 
-show_marketcap - Send token to show marketcap. Either turn it on or off. Need to set supply first before showing marketcap.
-
+show_marketcap - Send token to show marketcap. Either turn it on or off. Need to set supply first before showing marketcap.  
 /show_marketcap
 
-set_supply - Set total circulating supply for marketcap. Make sure to consider decimals.
-
+set_supply - Set total circulating supply for marketcap. Make sure to consider decimals.  
 /set_supply <token_address> <supply>
 
 
-remove_gif - Remove gif for set min_buy amount
-  
+remove_gif - Remove gif for set min_buy amount  
 /remove_gif <token_address> <min_amt>
 
 
 spin_a_nigelcast - Choose a random NigelCast to play for your guests.
-  
 /spin_a_nigelcast
-
