@@ -15,7 +15,6 @@ intro - Say hi to the Nigel's Dj Bot!
 
 
 add_token - Add the token {token} you want to track.
-
 /add_token <token_address>
 
 
