@@ -1,5 +1,5 @@
 # djbuybot
-For Radio NIgel's DjBuyBot, a telegram (for now) bot to track crypto buys and report whenever there is a purchase. Should you have any questions or like to get in touch with the team to get your podcast potentially featured, hop on over to https://t.me/NigelsforNigels.
+For Radio NIgel's DjBuyBot, a telegram (for now) bot to track crypto buys and report whenever there is a purchase. Should you have any questions or like to get in touch with the team to get your Token/Nigelcast potentially featured, hop on over to https://t.me/NigelsforNigels.
 
 **How to use**
 
