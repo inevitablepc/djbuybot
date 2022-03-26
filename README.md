@@ -1,9 +1,9 @@
 # djbuybot
-For Radio Nigel's DjBuyBot, a telegram (for now) bot to track crypto buys and report whenever there is a purchase. For suport, join us at our helpdesk channel at https://t.me/djbuybotsupport. Should you have any questions or like to get in touch with the team to get your Token/Nigelcast potentially featured, hop on over to https://t.me/NigelsforNigels.
+For Radio Nigel's DjBuyBot, a telegram (for now) bot to track crypto buys and report whenever there is a purchase. For support, join us at our helpdesk channel at https://t.me/djbuybotsupport. Should you have any questions or like to get in touch with the team to get your Token/Nigelcast potentially featured, hop on over to https://t.me/NigelsforNigels.
 
 **How to use**
 
-You can first add it on your telegram group by finding @djbuybot on telegram and additing it as an administrator so it has access to your messages (This will be useful).
+You can first add it on your telegram group by finding @djbuybot on telegram and adding it as an administrator so it has access to your messages (This will be useful).
 
 It only works for PancakeSwap and BSC tokens for now. If you like to include more tokens/Dexes/Chains, please submit a request at our telegram group above.
 
