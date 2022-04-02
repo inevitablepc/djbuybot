@@ -42,7 +42,9 @@ show_marketcap - Send token to show marketcap. Either turn it on or off. Need to
 
 set_supply - Set total circulating supply for marketcap. Make sure to consider decimals.  
 /set_supply <token_address> <supply>
-
+  
+set_buy_message - You can now customize your own buy message! Maximum 200 characters.
+/set_buy_message <token_address> <buy_message>
 
 remove_gif - Remove gif for set min_buy amount  
 /remove_gif <token_address> <min_amt>
